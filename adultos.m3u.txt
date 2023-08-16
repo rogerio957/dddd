@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1
+https://cv-h.phncdn.com/hls/videos/202202/03/402455971/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_402455971.mp4.urlset/index-f1-v1-a1.m3u8?wO5nwmUtph6PKzyFWDqiyb3kIw2GXNsObYqae0OBlNT9EO-503I1Mbvvyl_PutIE_w1DSY554c0ETPmQzfFTtipxrlpdl5910iFdYwplvcty8pRXwonxy1Bt3K7WOUchNMNDeLx0-lrgnnlQCBZdI3kmKQkumGO_6k6QIwVX4k1SaA02p-UPWaJPqGxIx_XKbxeeMmdG
+#EXTINF:-2
+https://ev-h.phncdn.com/hls/videos/202210/08/417116101/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_417116101.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1692171947&validto=1692179147&ipa=77.54.53.230&hdl=-1&hash=yPTIRcvO6yRDVlSI48sxnecvios%3D
